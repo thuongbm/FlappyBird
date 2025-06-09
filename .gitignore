@@ -1,0 +1,30 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# IDE specific folders
+.idea/
+.vscode/
+.vs/
+
+# VS/Unity generated files
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+*.apk
+*.aab
